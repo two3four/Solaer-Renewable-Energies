@@ -1,0 +1,563 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4078058,
+          42.131845
+        ]
+      },
+      "properties": {
+        "Project": "Mequinenza",
+        "Power": 125,
+        "Country": "Spain",
+        "Location": "Huesca",
+        "Status": "Pre-construction",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0273067,
+          39.8628296
+        ]
+      },
+      "properties": {
+        "Project": "Toledo",
+        "Power": 133,
+        "Country": "Spain",
+        "Location": "Toledo",
+        "Status": "Advanced Development",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4906855,
+          38.3459963
+        ]
+      },
+      "properties": {
+        "Project": "Villena",
+        "Power": 19,
+        "Country": "Spain",
+        "Location": "Alicante",
+        "Status": "Pre-construction",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16017,
+          40.632489
+        ]
+      },
+      "properties": {
+        "Project": "CISNE 1-4",
+        "Power": 200,
+        "Country": "Spain",
+        "Location": "Guadalajara",
+        "Status": "Advanced Development",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0273067,
+          39.8628296
+        ]
+      },
+      "properties": {
+        "Project": "Valdemoro 1-2 + Torrejon 1-2",
+        "Power": 200,
+        "Country": "Spain",
+        "Location": "Toledo",
+        "Status": "Advanced Development",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5718779,
+          42.5983611
+        ]
+      },
+      "properties": {
+        "Project": "Bierzo 0-3",
+        "Power": 200,
+        "Country": "Spain",
+        "Location": "Leon",
+        "Status": "Advanced Development",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7901189,
+          37.003002
+        ]
+      },
+      "properties": {
+        "Project": "Cacin",
+        "Power": 25,
+        "Country": "Spain",
+        "Location": "Alm\u00f3cita",
+        "Status": "In construction",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5984368,
+          37.1774605
+        ]
+      },
+      "properties": {
+        "Project": "Fargue",
+        "Power": 25,
+        "Country": "Spain",
+        "Location": "Granada",
+        "Status": "Pre-construction",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1306544,
+          37.9922399
+        ]
+      },
+      "properties": {
+        "Project": "Calasparra",
+        "Power": 30,
+        "Country": "Spain",
+        "Location": "Murcia",
+        "Status": "In construction",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7125608,
+          38.2699329
+        ]
+      },
+      "properties": {
+        "Project": "Elche 1-6",
+        "Power": 350,
+        "Country": "Spain",
+        "Location": "Elche",
+        "Status": "Advanced Development",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8890853,
+          41.6488226
+        ]
+      },
+      "properties": {
+        "Project": "Alizarsun",
+        "Power": 50,
+        "Country": "Spain",
+        "Location": "Zaragoza",
+        "Status": "Operational",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8890853,
+          41.6488226
+        ]
+      },
+      "properties": {
+        "Project": "Alizarsun 2",
+        "Power": 50,
+        "Country": "Spain",
+        "Location": "Zaragoza",
+        "Status": "Early Development",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8890853,
+          41.6488226
+        ]
+      },
+      "properties": {
+        "Project": "Alizarsun 1b",
+        "Power": 6,
+        "Country": "Spain",
+        "Location": "Zaragoza",
+        "Status": "Advanced Development",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.96772,
+          50.85237
+        ]
+      },
+      "properties": {
+        "Project": "Wloszczowa",
+        "Power": 3,
+        "Country": "Poland",
+        "Location": "Wloszczowa",
+        "Status": "In construction",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Tito Energia ",
+        "Power": 10,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Development",
+        "Technology": "Agrovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1011931,
+          40.7928393
+        ]
+      },
+      "properties": {
+        "Project": "Brindisi Energia 1-8",
+        "Power": 107,
+        "Country": "Italy",
+        "Location": "Puglia",
+        "Status": "Advanced Development",
+        "Technology": "Agrivoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1011931,
+          40.7928393
+        ]
+      },
+      "properties": {
+        "Project": "Gravinia de Puglia",
+        "Power": 140,
+        "Country": "Italy",
+        "Location": "Puglia",
+        "Status": "Advanced Development",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Guardia Perticara ",
+        "Power": 15,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Development",
+        "Technology": "Agrovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6044454,
+          40.6663601
+        ]
+      },
+      "properties": {
+        "Project": "Matera Energia",
+        "Power": 151,
+        "Country": "Italy",
+        "Location": "Matera",
+        "Status": "Advanced Development",
+        "Technology": "Agrivoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Craco Energia",
+        "Power": 19,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Development",
+        "Technology": "Agrovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Effesolar",
+        "Power": 20,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Develo[ment",
+        "Technology": "Agrovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Banzi Energia ",
+        "Power": 20,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Development",
+        "Technology": "Agrovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Genzano Energia ",
+        "Power": 58,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Development",
+        "Technology": "Agrovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Ferrandina",
+        "Power": 70,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Development",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9699878,
+          40.6430766
+        ]
+      },
+      "properties": {
+        "Project": "Melfi Energia",
+        "Power": 8,
+        "Country": "Italy",
+        "Location": "Basilicata",
+        "Status": "Advanced Development",
+        "Technology": "Agrovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1328491,
+          -23.8634189
+        ]
+      },
+      "properties": {
+        "Project": "Enapac",
+        "Power": 150,
+        "Country": "Chile",
+        "Location": "Atacama",
+        "Status": "Advanced Development",
+        "Technology": "Desalination"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6884912,
+          -35.5183364
+        ]
+      },
+      "properties": {
+        "Project": "Esmeralda",
+        "Power": 3,
+        "Country": "Chile",
+        "Location": "Maule",
+        "Status": "In construction",
+        "Technology": "Photo-voltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6884912,
+          -35.5183364
+        ]
+      },
+      "properties": {
+        "Project": "Hortencias ",
+        "Power": 3,
+        "Country": "Chile",
+        "Location": "Maule",
+        "Status": "In-Construction",
+        "Technology": "Photovoltaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1416132,
+          -41.9197779
+        ]
+      },
+      "properties": {
+        "Project": "Calbuco",
+        "Power": 48,
+        "Country": "Chile",
+        "Location": "Los Lagos",
+        "Status": "Advanced Development",
+        "Technology": "Wind"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7571009,
+          -28.5757953
+        ]
+      },
+      "properties": {
+        "Project": "Cachiyuyo",
+        "Power": 53,
+        "Country": "Chile",
+        "Location": "Vallenar",
+        "Status": "Pre-construction",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5109513,
+          -19.9243492
+        ]
+      },
+      "properties": {
+        "Project": "Qanqi\u00f1a",
+        "Power": 84,
+        "Country": "Chile",
+        "Location": "Tarapaca",
+        "Status": "Pre-construction",
+        "Technology": "Photo-voltaic + Storage"
+      }
+    }
+  ]
+}
